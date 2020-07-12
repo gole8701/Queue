@@ -30,7 +30,7 @@ const User = () => {
             <Descriptions title="User Info" >
                 <Descriptions.Item label="ID" >{user.id}</Descriptions.Item>
                 <Descriptions.Item label="Name">{user.name}</Descriptions.Item>
-                <Descriptions.Item label="UserName">{user.Username}</Descriptions.Item>
+                <Descriptions.Item label="UserName">{user.username}</Descriptions.Item>
                 <Descriptions.Item label="Age">{user.age}</Descriptions.Item>
                 <Descriptions.Item label="phone">{user.phone}</Descriptions.Item>
                 <Descriptions.Item label="Email">{user.email}</Descriptions.Item>
